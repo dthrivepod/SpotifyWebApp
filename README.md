@@ -1,5 +1,5 @@
-# Music Hub
-## Search Artist | git scoop
+# Livetix
+## Search Artist | buy verifyed tickemaster tickets
 
 One search gets you all of the info you need.
 
