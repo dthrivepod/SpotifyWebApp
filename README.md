@@ -1,5 +1,5 @@
 # Thrivepod
-## Livetix | Ticketmaster Verifyed
+## Livetix | Ticketmaster® Verifyed
 
 One search gets you all of the info you need.
 
