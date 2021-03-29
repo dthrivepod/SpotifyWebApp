@@ -1,5 +1,5 @@
-# Music Hub
-## Search Artist | git scoop
+# Thrivepod
+## Livetix | Ticketmaster Verifyed
 
 One search gets you all of the info you need.
 
